@@ -1,8 +1,4 @@
-# MyStoreAutomationFramework
-Page Object Model framework for automation testing MyStore App using Java and Selenium
-
-[automationpractice.com](http://automationpractice.com/index.php "Automation Practice Website")
-the sample real-time ecommerce website for automation testing practice.
+Part 3 Challenge
 
 Tools:
 
