@@ -1,0 +1,80 @@
+2022-10-18 22:24:02,845 DEBUG [main] Preferences:118 - Preference found chrome106=106.0.5249.61 (valid until 2022-10-18 23:19:20)
+2022-10-18 22:24:02,846  INFO [main] WebDriverManager:546 - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-18 22:24:02,852 DEBUG [main] WebDriverManager:502 - Driver chromedriver 106.0.5249.61 found in cache
+2022-10-18 22:24:02,852  INFO [main] WebDriverManager:1035 - Exporting webdriver.chrome.driver as /Users/teddynzioka/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-18 22:24:05,977  INFO [main] Log:41 - Before navigating to: 'http://www.automationpractice.com/index.php'
+2022-10-18 22:24:17,489  INFO [main] Log:47 - Navigated to:'http://www.automationpractice.com/index.php'
+2022-10-18 22:24:17,503  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:17,505  INFO [main] Log:82 - Trying to find Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:17,641  INFO [main] Log:87 - Found Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:17,662  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:17,662  INFO [main] Log:82 - Trying to find Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:17,672  INFO [main] Log:87 - Found Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:17,673  INFO [main] Log:92 - Trying to click on: [[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-10-18 22:24:22,068  INFO [main] Log:97 - Clicked on: [[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-10-18 22:24:22,070  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:22,095  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:22,106  INFO [main] Log:102 - Value of the:[[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //input[@id='email']] before any changes made
+2022-10-18 22:24:22,439  INFO [main] Log:107 - Element value changed to: [[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //input[@id='email']]
+2022-10-18 22:24:22,440  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:22,440  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:22,485  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:22,613  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:22,613  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:22,635  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:22,635  INFO [main] Log:102 - Value of the:[[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //input[@id='passwd']] before any changes made
+2022-10-18 22:24:23,248  INFO [main] Log:107 - Element value changed to: [[ChromeDriver: chrome on MAC (e634a3ccfa91f5a6234a923e12fc940b)] -> xpath: //input[@id='passwd']]
+2022-10-18 22:24:23,248  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:23,248  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:23,278  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:23,285  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:23,286  INFO [main] Log:112 - Trying to execute script: arguments[0].click()
+2022-10-18 22:24:23,286  INFO [main] Log:82 - Trying to find Element By : By.id: SubmitLogin
+2022-10-18 22:24:23,331  INFO [main] Log:87 - Found Element By : By.id: SubmitLogin
+2022-10-18 22:24:26,847  INFO [main] Log:117 - Script is executed: arguments[0].click()
+2022-10-18 22:24:26,849  INFO [main] Log:42 - Starting accountPageTitleTest test execution
+2022-10-18 22:24:26,850  INFO [main] Log:112 - Trying to execute script: return document.title
+2022-10-18 22:24:26,858  INFO [main] Log:117 - Script is executed: return document.title
+2022-10-18 22:24:26,859  INFO [main] Log:47 - Ending accountPageTitleTest test execution
+2022-10-18 22:24:27,050 DEBUG [main] Preferences:118 - Preference found chrome106=106.0.5249.61 (valid until 2022-10-18 23:19:20)
+2022-10-18 22:24:27,051  INFO [main] WebDriverManager:546 - Using chromedriver 106.0.5249.61 (since Google Chrome 106 is installed in your machine)
+2022-10-18 22:24:27,052 DEBUG [main] WebDriverManager:502 - Driver chromedriver 106.0.5249.61 found in cache
+2022-10-18 22:24:27,053  INFO [main] WebDriverManager:1035 - Exporting webdriver.chrome.driver as /Users/teddynzioka/.m2/repository/webdriver/chromedriver/mac64/106.0.5249.61/chromedriver
+2022-10-18 22:24:29,215  INFO [main] Log:41 - Before navigating to: 'http://www.automationpractice.com/index.php'
+2022-10-18 22:24:40,370  INFO [main] Log:47 - Navigated to:'http://www.automationpractice.com/index.php'
+2022-10-18 22:24:40,374  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:40,374  INFO [main] Log:82 - Trying to find Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:40,500  INFO [main] Log:87 - Found Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:40,518  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:40,518  INFO [main] Log:82 - Trying to find Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:40,530  INFO [main] Log:87 - Found Element By : By.xpath: //a[@title='Log in to your customer account']
+2022-10-18 22:24:40,530  INFO [main] Log:92 - Trying to click on: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //a[@title='Log in to your customer account']]
+2022-10-18 22:24:45,399  INFO [main] Log:97 - Clicked on: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //a[@title='Log in to your customer account']]
+2022-10-18 22:24:45,418  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:45,446  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:45,446  INFO [main] Log:102 - Value of the:[[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //input[@id='email']] before any changes made
+2022-10-18 22:24:45,774  INFO [main] Log:107 - Element value changed to: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //input[@id='email']]
+2022-10-18 22:24:45,775  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:45,775  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:45,816  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='email']
+2022-10-18 22:24:45,941  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:45,941  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:45,959  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:45,960  INFO [main] Log:102 - Value of the:[[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //input[@id='passwd']] before any changes made
+2022-10-18 22:24:46,616  INFO [main] Log:107 - Element value changed to: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //input[@id='passwd']]
+2022-10-18 22:24:46,616  INFO [main] Log:112 - Trying to execute script: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:46,616  INFO [main] Log:82 - Trying to find Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:46,645  INFO [main] Log:87 - Found Element By : By.xpath: //input[@id='passwd']
+2022-10-18 22:24:46,651  INFO [main] Log:117 - Script is executed: arguments[0].style.border='3px solid red'
+2022-10-18 22:24:46,651  INFO [main] Log:112 - Trying to execute script: arguments[0].click()
+2022-10-18 22:24:46,651  INFO [main] Log:82 - Trying to find Element By : By.id: SubmitLogin
+2022-10-18 22:24:46,700  INFO [main] Log:87 - Found Element By : By.id: SubmitLogin
+2022-10-18 22:24:49,987  INFO [main] Log:117 - Script is executed: arguments[0].click()
+2022-10-18 22:24:49,990  INFO [main] Log:52 - Starting tshirtsLinkTest test execution
+2022-10-18 22:24:49,993  INFO [Forwarding actions on session fea38893cfc961b62be36df72a251a68 to remote] Log:82 - Trying to find Element By : By.xpath: //a[@title='Women']
+2022-10-18 22:24:50,018  INFO [Forwarding actions on session fea38893cfc961b62be36df72a251a68 to remote] Log:87 - Found Element By : By.xpath: //a[@title='Women']
+2022-10-18 22:24:50,254  INFO [main] Log:82 - Trying to find Element By : By.xpath: //a[@title='T-shirts']
+2022-10-18 22:24:50,267  INFO [main] Log:87 - Found Element By : By.xpath: //a[@title='T-shirts']
+2022-10-18 22:24:50,268  INFO [main] Log:92 - Trying to click on: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //a[@title='T-shirts']]
+2022-10-18 22:24:54,127  INFO [main] Log:97 - Clicked on: [[ChromeDriver: chrome on MAC (fea38893cfc961b62be36df72a251a68)] -> xpath: //a[@title='T-shirts']]
+2022-10-18 22:24:54,134  INFO [main] Log:58 - Ending tshirtsLinkTest test execution

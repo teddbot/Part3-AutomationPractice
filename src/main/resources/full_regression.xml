@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyStore Full Regression test suit" thread-count="1" parallel="methods">
+
+	<listeners>
+		<listener class-name="com.mystore.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	<test name="Regression">
+		<classes>
+			<class name="com.mystore.qa.testcases.ui.HomePageTest"/>
+			<class name="com.mystore.qa.testcases.ui.LoginPageTest"/>
+			<class name="com.mystore.qa.testcases.ui.AccountPageTest"/>
+		</classes>
+	</test>
+</suite>
